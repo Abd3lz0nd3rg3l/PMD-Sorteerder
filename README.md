@@ -1,4 +1,4 @@
-# Abd3lz0nd3rg3l.github.io
+# Door Abdoullah Rahou
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
